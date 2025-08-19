@@ -1,2 +1,16 @@
 # todo-vanilla
-This is a simple Todo list web app built without any frameworks — just HTML, CSS, and vanilla JavaScript. It lets you add, complete, and delete tasks, with data saved locally in your browser using localStorage. Perfect as a beginner-friendly mini project to learn Git, GitHub Desktop, and basic front-end development.
+
+A tiny Todo list app built with plain HTML/CSS/JavaScript. Saves tasks to localStorage.
+
+## Run locally
+1. Open `index.html` in your browser (double-click or open from your editor).
+2. Add, complete, or delete tasks — they persist in localStorage.
+
+## How to push with GitHub Desktop
+1. Put this folder in `D:\Github\todo-vanilla`.
+2. Open **GitHub Desktop**.
+3. If not signed in: `File → Options (or Preferences) → Accounts → Sign in`.
+4. In GitHub Desktop: `File → Add local repository...` → choose `D:\Github\todo-vanilla` → Add repository.
+5. In the **Changes** tab enter commit message: `Initial commit: add todo app` → click **Commit to main**.
+6. Click **Publish repository** (top-right). Choose Public/Private → **Publish repository**.
+
